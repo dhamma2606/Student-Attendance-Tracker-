@@ -1,2 +1,0 @@
-# Student-Attendance-Tracker-
-The Student Attendance Tracker automates attendance management using Python, NumPy, and Pandas. It records daily attendance, calculates totals and percentages, classifies students as Qualified or Disqualified (≥75%), and saves reports in CSV/Excel. Useful for students, teachers, and administrators for easy analysis and tracking.
